@@ -1,0 +1,8 @@
+{
+	"name" : "jquery-modullatte",
+	"version" : "1.0.0",
+	"main" : "./dist/jquery-modullatte.js",
+	"dependencies" : {
+		"jquery" : null
+	}
+}
