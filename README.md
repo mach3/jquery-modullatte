@@ -50,7 +50,7 @@ data-module-src のファイルの内容がこの要素と差し替わります�
 ```html
 <!-- navi -->
 <ul>
-	<li><a href="../foo.html">foo</a></li>
+	<li><a href="foo.html">foo</a></li>
 </ul>
 <!-- /navi -->
 ```
